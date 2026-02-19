@@ -1,4 +1,4 @@
-I built a Computer Algebra System to handle polynomials and rational functions (as I didn't want to use existing libraries ie [SymPy](https://www.sympy.org/en/index.html])). 
+I built a Computer Algebra System to handle polynomials and rational functions (as I didn't want to use existing libraries ie [SymPy](https://www.sympy.org/en/index.html])). This was for a numerical methods course, yet ironically - I tried to use as much analytic means to avoid as much numerical approximations as possible.
 
 Complex Analysis was used - specifically Cauchy's Residue Theorem - which allowed for computation of improper integrals. 
 
